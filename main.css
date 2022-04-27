@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: dimgray;
+}
+header{
+    background-color:rgb(30, 24, 24);
+    width: 100%;
+    height: 100px;
+}
+.class1 , .class2 a{
+    float: left;
+    margin-top: 20px;
+
+}
+.class1{
+    padding-right: 200px;
+    padding-left: 300px;
+}
+.class2 a{
+    background-color: black;
+    padding: 15px 16px;
+    text-decoration: none;
+}
+.class2{
+    margin-right: 70px;
+}
+.topclass {
+    margin-left: 300px; 
+    margin-right: 70px;
+    margin-top: 20px;
+}
+.class3, .class4{
+    float: left;
+}
+.class3{
+    width: 300px;
+    height: 300px;
+    background-color:lightgrey ;
+    margin-right: 10px;
+    padding: 20px;
+
+}
+p.pclass{
+    float: right;
+    padding-top: 20px; 
+    color: darkgoldenrod;
+}
+.class4{
+    width: 630px;
+    height: 300px;
+    background-color: rgb(30, 24, 24);
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 100px;
+}
+.top1class{
+    margin-left: 300px;
+    clear: both;
+}
+.top1,.top2,.top3{
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.top11{
+    float:left;
+    width: 80px;
+    height: 80px;
+    background-color:rgb(30, 24, 24);
+    color: white;
+    padding: 25px 10px ;
+    margin-right: 10px;
+    margin-top: 20px;
+    border: 4px solid rgb(224, 218, 218);
+}
+.classp{
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.pclass{
+    padding-right: 20px;
+}
+.clas{
+    margin-left: 300px;
+    clear: both;
+}
+.clas1,.clas2,.clas3,.clas4{
+    width: 215px;
+    height: 100px;
+    background-color:rgb(30, 24, 24); 
+    color: white;
+    float: left;
+    margin: 40px 20px 20px 0px;
+    text-align: center;
+    padding-top: 40px;
+    border: 4px solid rgb(224, 218, 218);
+}
+
+
+
+
+
+
+    
